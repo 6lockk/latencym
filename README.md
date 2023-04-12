@@ -1,2 +1,2 @@
-# latencyt
+# latencym
 Measure your latency
